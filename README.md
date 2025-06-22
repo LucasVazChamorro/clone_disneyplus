@@ -81,7 +81,7 @@ Atualmente, estou em busca de uma **vaga de estágio ou desenvolvedor júnior** 
 
 - ✉️ Email: lucasvazchamorro7@gmail.com  
 - 💼 LinkedIn: [https://www.linkedin.com/in/lucas-chamorro/](https://www.linkedin.com/in/lucas-chamorro/)  
-- 🌐 Portfólio: [https://portfolio-lucas-chamorro.vercel.app/](https://lucasvazchamorro.github.io/portfolio/)
+- 🌐 Portfólio: [https://lucasvazchamorro.github.io/portfolio/](https://lucasvazchamorro.github.io/portfolio/)
 
 ---
 
